@@ -1,0 +1,28 @@
+name: Test Backend
+
+on:
+  push:
+    branches:
+      - main
+  workflow_call:
+  workflow_dispatch: # Permet d'exécuter manuellement si nécessaire
+
+jobs:
+  run-tests:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - name: 'Checkout GitHub Action'
+        uses: actions/checkout@v3
+
+      - name: 'Set up Java'
+        uses: actions/setup-java@v3
+        with:
+          java-version: '17'
+          distribution: 'temurin'
+
+      - name: 'Run Backend Tests'
+        working-directory: ./back
+        run: |
+          mvn clean install
+          mvn test

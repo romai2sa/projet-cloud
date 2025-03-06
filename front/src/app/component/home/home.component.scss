@@ -1,0 +1,80 @@
+.film-list {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 1200px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 40px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.film-item {
+  display: inline-block;
+  width: calc(33.333% - 20px);
+  margin-bottom: 20px;
+  transition: transform 0.3s ease;
+}
+
+.film-item:hover {
+  transform: scale(1.05);
+}
+
+.film-link {
+  display: block;
+  position: relative;
+  text-decoration: none;
+  color: inherit;
+}
+
+.film-thumbnail {
+  position: relative;
+  overflow: hidden;
+}
+
+.film-image {
+  width: 100%;
+  height: auto;
+  transition: transform 0.3s ease;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.film-item:hover .film-image {
+  transform: scale(1.1);
+}
+
+.film-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  opacity: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: opacity 0.3s ease;
+  border-radius: 8px;
+}
+
+.film-item:hover .film-overlay {
+  opacity: 1;
+}
+
+.film-title {
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  margin: 0;
+}

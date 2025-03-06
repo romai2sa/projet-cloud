@@ -1,0 +1,20 @@
+<div class="principale">
+  <div class="sousdivimage">
+    <div class="titrefilmaffiche">
+      <h1 class="titrefilmaffiche">{{film.title}}</h1>
+    </div>
+    <img src="{{film.movie_banner}}">
+  </div>
+  <div class="sousdivfield">
+      <p class="space"></p>
+      <p class="space"></p>
+      <p class="details"><strong>Titre Original :</strong> {{ film.original_title }}</p>
+      <p class="details"><strong>Réalisateur :</strong> {{ film.director }}</p>
+      <p class="details"><strong>Producteur :</strong> {{ film.producer }}</p>
+      <p class="details"><strong>Date de Sortie :</strong> {{ film.release_date }}</p>
+      <p class="details"><strong>Durée :</strong> {{ film.running_time }} minutes</p>
+      <p class="details"><strong>Score Rotten Tomatoes :</strong> {{ film.rt_score }}</p>
+  </div>
+</div>
+
+

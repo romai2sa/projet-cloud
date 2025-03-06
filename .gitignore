@@ -1,0 +1,8 @@
+/terraform/dev/terraform.tfvars
+/terraform/prod/terraform.tfvars
+/terraform/dev/.terraform/*
+/terraform/prod/.terraform/*
+
+### IntelliJ IDEA ###
+.idea/
+.idea/.

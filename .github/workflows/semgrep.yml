@@ -1,0 +1,31 @@
+name: Semgrep Security Scan
+
+on:
+  push:
+    branches:
+      - main
+      - dev
+  pull_request:
+    branches:
+      - dev
+
+jobs:
+  semgrep:
+    runs-on: ubuntu-latest 
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2  
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'  
+
+      - name: Install Semgrep
+        run: |
+          pip install semgrep  
+          
+      - name: Run Semgrep
+        run: |
+          semgrep --config=auto . 

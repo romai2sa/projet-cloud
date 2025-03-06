@@ -1,0 +1,14 @@
+<div class="film-list">
+  <ul>
+    <li *ngFor="let film of films" class="film-item">
+      <a [href]="'/film/' + film.id" class="film-link">
+        <div class="film-thumbnail">
+          <img [src]="film.image" class="film-image">
+          <div class="film-overlay">
+            <h2 class="film-title">{{ film.title }}</h2>
+          </div>
+        </div>
+      </a>
+    </li>
+  </ul>
+</div>

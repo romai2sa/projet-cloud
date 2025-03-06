@@ -1,0 +1,595 @@
+2025-01-02 18:07:45.257+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 18:07:45.310+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 22604)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+<<<<<<< HEAD
+2025-01-02 20:37:41.250+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 20:37:41.348+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 15864)
+=======
+2025-01-02 18:53:19.544+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 18:53:19.592+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 27704)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:06:21.272+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:06:21.334+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 31684)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:07:24.027+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:07:24.075+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 13712)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:09:45.263+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:09:45.315+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 29396)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:10:08.643+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:10:08.689+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 30960)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:10:30.746+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:10:30.804+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 31056)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:11:40.818+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:11:40.868+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 28856)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:12:01.105+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:12:01.159+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 31672)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:13:02.126+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:13:02.175+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 30704)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:13:51.027+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:13:51.075+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 28912)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:16:20.048+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:16:20.096+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 30040)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:18:17.326+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:18:17.374+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 27560)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:19:01.204+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:19:01.254+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 31124)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:20:57.471+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:20:57.519+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 17764)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:22:04.813+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:22:04.859+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 28816)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:24:09.475+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:24:09.522+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 20792)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:24:52.991+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:24:53.038+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 31376)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:27:11.160+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:27:11.208+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 30828)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:34:39.802+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:34:39.850+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 29412)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 19:37:21.344+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 19:37:21.403+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 22420)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 20:54:59.939+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 20:55:00.003+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 17100)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 20:58:01.796+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 20:58:01.889+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 23448)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 21:02:39.349+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 21:02:39.404+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 16724)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 21:10:06.667+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 21:10:06.721+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 17440)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 21:21:53.355+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 21:21:53.428+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 8504)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 21:22:45.046+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 21:22:45.122+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 4408)
+>>>>>>> 162bbd2d6eef0408dcdc4f82d0157f6903d6dfba
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 21:44:40.971+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 21:44:41.024+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 2468)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 22:04:29.539+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 22:04:29.632+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 28812)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 22:13:38.135+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 22:13:38.191+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 32888)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 22:16:39.942+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 22:16:40.000+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 22232)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-02 22:18:09.801+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-02 22:18:09.862+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 23080)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-03 12:08:55.858+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-03 12:08:55.925+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 35484)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-03 12:09:18.547+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-03 12:09:18.627+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 33080)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-03 12:43:21.802+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-03 12:43:21.860+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 4980)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-03 12:45:10.267+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-03 12:45:10.319+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 37328)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-03 12:48:01.674+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-03 12:48:01.732+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 29536)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-03 12:54:35.048+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-03 12:54:35.105+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 14972)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-03 13:01:16.558+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-03 13:01:16.616+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 35288)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-03 13:07:02.627+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-03 13:07:02.678+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 31320)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-03 13:30:32.311+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-03 13:30:32.391+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 33648)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-03 13:32:46.376+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-03 13:32:46.431+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 37408)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-03 19:17:14.309+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-03 19:17:14.369+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 37292)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-03 19:55:49.302+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-03 19:55:49.350+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 34220)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-03 17:39:28.748+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-03 17:39:28.846+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 11376)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-03 18:00:45.272+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-03 18:00:45.321+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 9196)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-04 14:31:30.867+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-04 14:31:30.953+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 5168)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-04 19:51:05.582+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-04 19:51:05.646+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 19012)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
+2025-01-04 23:40:07.241+01:00 INFO  c.m.a.a.i.c.ConfigurationBuilder - Some telemetry may be sampled out because a default sampling configuration was added in version 3.4.0 to reduce the default billing cost. You can set the sampling configuration explicitly: https://learn.microsoft.com/azure/azure-monitor/app/java-standalone-config#sampling
+2025-01-04 23:40:07.290+01:00 ERROR c.m.applicationinsights.agent - 
+*************************
+Application Insights Java Agent 3.6.2 startup failed (PID 16536)
+*************************
+
+Description:
+No connection string provided
+
+Action:
+Please provide connection string: https://go.microsoft.com/fwlink/?linkid=2153358
+
