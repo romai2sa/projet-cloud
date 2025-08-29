@@ -17,7 +17,7 @@
     "@angular/forms": "^20.2.2",
     "@angular/platform-browser": "^20.2.2",
     "@angular/platform-browser-dynamic": "^20.2.2",
-    "@angular/router": "^20.2.1",
+    "@angular/router": "^20.2.3",
     "@microsoft/applicationinsights-angularplugin-js": "^15.3.7",
     "@microsoft/applicationinsights-web": "^3.3.9",
     "bootstrap": "^5.3.8",
